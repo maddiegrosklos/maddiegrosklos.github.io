@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Madeline Grosklos, PhD - Biomechanist and engineer who enjoys mentorship and project management.'
 description: null
 image: null
 author: null
