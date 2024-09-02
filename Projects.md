@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projects
-description: Dissertation Work
+description: Dissertation Work / Physical Activity, OpenSim, Surveys
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
