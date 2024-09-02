@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+image: assets/images/MVICtest.png
 nav-menu: true
 ---
 
