@@ -1,9 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Madeline Grosklos Portfolio
+subtitle: Biomehanics researcher 
+email: grosklos.2@osu.edu
+description: Portfolio of projects and education in biomedical engineering and musculoskeletal biomechanics. 
+baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
@@ -14,7 +14,30 @@ country: United States of America
 phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: custom # accepts "posts" or "pages" or "custom"
+custom-pages:
+  -
+    title: QA Testing
+    url: qatesting
+    image: /assets/images/games/gizmosgambit/gizmos_gambit.png
+    description: Featuring my QA Testing experience
+  -
+    title: Games
+    url: games
+    image: /assets/images/games/djusachi/DJBunnyTitleScreenCentered.png
+    description: Featuring game projects
+  -
+    title: Videos
+    url: videos
+    image: /assets/images/videos/mindsweweave.png
+    description: Featuring trailers, documentaries and more
+  -
+    title: Image Editing and Graphic Design
+    url: graphics
+    image: /assets/images/logos/ENGNakoruru.png
+    description: Featuring graphic design goodness
+    
+
 tiles-count: 6
 
 # social settings
