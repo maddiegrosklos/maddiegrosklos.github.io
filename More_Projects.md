@@ -2,6 +2,6 @@
 layout: post
 title: Non-Dissertation Projects
 description: Publications & Side Projects 
-image: assets/images/pic11.jpg
+image: assets/images/MicrosoftTeams-image.png
 nav-menu: true
 ---
