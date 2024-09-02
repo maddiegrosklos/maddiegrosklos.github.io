@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Madeline Grosklos, PhD - Biomechanist and engineer embracing mentorship and project management.'
+landing-title: 'Madeline Grosklos, PhD - Biomechanist & Biomedical Engineer'
 description: null
 image: null
 author: null
