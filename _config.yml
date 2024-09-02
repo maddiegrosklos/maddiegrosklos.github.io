@@ -14,30 +14,7 @@ country: United States of America
 phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: custom # accepts "posts" or "pages" or "custom"
-custom-pages:
-  -
-    title: QA Testing
-    url: qatesting
-    image: /assets/images/games/gizmosgambit/gizmos_gambit.png
-    description: Featuring my QA Testing experience
-  -
-    title: Games
-    url: games
-    image: /assets/images/games/djusachi/DJBunnyTitleScreenCentered.png
-    description: Featuring game projects
-  -
-    title: Videos
-    url: videos
-    image: /assets/images/videos/mindsweweave.png
-    description: Featuring trailers, documentaries and more
-  -
-    title: Image Editing and Graphic Design
-    url: graphics
-    image: /assets/images/logos/ENGNakoruru.png
-    description: Featuring graphic design goodness
-    
-
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
