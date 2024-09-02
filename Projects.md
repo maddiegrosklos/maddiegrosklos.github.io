@@ -2,7 +2,7 @@
 layout: post
 title: Projects
 description: Dissertation Work / Physical Activity, OpenSim, Surveys
-image: assets/images/pic11.jpg
+image: assets/images/MVICtest.png
 nav-menu: true
 ---
 
