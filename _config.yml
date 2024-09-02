@@ -17,15 +17,19 @@ phone: (716) 555-5555
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
 500px_url:
 facebook_url:
 github_url: https://maddiegrosklos.github.io
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/in/madeline-grosklos-9871b99a/
-pinterest_url:
+envelope: mailto:grosklos.2@osu.edu
+LinkedIn: https://www.linkedin.com/in/madeline-grosklos-9871b99a/
+globe: https://maddiegrosklos.github.io
 slack_url:
 twitter_url: 
 
