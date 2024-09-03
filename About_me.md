@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/musclegroups.png
+image: assets/images/about_me.png
 nav-menu: true
 ---
 
