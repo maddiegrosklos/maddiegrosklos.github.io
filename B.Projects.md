@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Projects
+title: Primary Projects (Lead)
 description: Dissertation Work / Physical Activity, OpenSim, Surveys
 image: assets/images/MVICtest.png
 nav-menu: true
