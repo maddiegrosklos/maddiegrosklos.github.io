@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Human Participants Research</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>A large majority of my research projects, including the entirety of my dissertation work, have revolved around human participant research. I have been responsible for every stage of the process, from concept development, protocol creation, acquiring funds, and regulatory approval to participant recruitment and retention, data collection, data processing and analysis, and dissemination of results.</p>
 	</div>
 </section>
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/tools.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
