@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Massa libero</h2>
 		</header>
-		<p>I hope you enjoyed clicking through my portfolio. Whether you are a student, academic professional, industry professional, or just a biomechanics and movement science enthusiast, I would love to connect! Please feel free to rach out with questions about any of my projects or expeiences. -Maddie </p>
+		<p> </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
