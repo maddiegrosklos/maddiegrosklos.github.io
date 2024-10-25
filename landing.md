@@ -77,7 +77,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Massa libero</h2>
 		</header>
-		<p> </p>
+		<p> text text text </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
