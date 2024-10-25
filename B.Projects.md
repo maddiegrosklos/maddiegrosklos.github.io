@@ -30,9 +30,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Technical skills and tools</h3>
 				</header>
-				<p>Through the following projects I developed expertise in: .</p>
-				<p>And skills with the following tools: .</p>
-				<p>I am proficient in (but won't claim expertise): .</p>
+				<p>Through the following projects I developed expertise in: .<br>And skills with the following tools: .<br>
+				I am proficient in (but won't claim expertise): .</p>
 				<!-- <ul class="actions"> -->
 					<!-- <li><a href="generic.html" class="button">Learn more</a></li> -->
 				<!-- </ul> -->
