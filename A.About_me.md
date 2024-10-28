@@ -12,29 +12,30 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About me // How I got here</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Why Biomedical Engineering?</h2>
+<p>Growing up, I was always drawn to science. After breaking my ankle while playing basketball and needing next-day surgery, I became interested in both physical therapy as a profession and the science behind how assistive braces and devices are designed. I continued to play sports at a high level through high school, but never without a sturdy ankle brace. Ultimately, I decided to pursue Mechanical Engineering at Ohio State with the goal of working in assistive devices and prosthetics. However, I found that the curriculum in ME did not excite me. I switched to Materials Science and Engineering before finally finding my home in Biomedical Engineering. The combination of engineering principles with physiology and anatomy was exactly what I needed to stay engaged and inspired.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Why PhD?</h3>
+		<p>One thing I never planned on doing was going to grad school. Funny how things work out. Prior to my third year of undergrad, I did a summer research experience at Cincinnati Children's Hospital Medical Center, working on ACL injury prevention studies. I found it very interesting, but the following year, I decided to pursue a more 'industry-based' experience with General Motors. The people and environment at GM were great, but I just did not love the work. I realized I wanted to work directly with people in a research or research-and-development role. After a LinkedIn search, I noticed that everyone in roles that excited me (Nike, Medical Center Research) had at least a master's degree. With this in mind, I reached out to professors and mentors from undergrad for advice on pursuing my master's and somehow got talked into a PhD. Despite the struggles that accompany a PhD, I am very glad it worked out this way. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Research Interests</h3>
+		<p>I was never stuck on one line of research or a specific research path. All I knew was that my goal was to dive into human performance and understand more about the human body as a machine (as I like to call it). The lab where I felt I had the best fit was at the Jameson Crane Sports Medicine Institute within the Ohio State Medical Center system. With this in mind, I knew it would work best for my team if my research had a primarily clinical focus, allowing me to integrate performance as I was able. After working closely with physical therapists during my PhD, I fell in love with the intersection of engineering and clinical medicine. I hope to collaborate with clinicians on questions of injury prevention, recovery, and performance in some capacity throughout the rest of my career.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Hobbies and Interests</h3>
+		<p>This 'About Me' section has been very work-relevant, but I honestly love the world of sports and performance biomechanics so much that it has become a part of my personality. I always say I hope to never need a 'work-life balance' because I will love my work so much that it integrates seamlessly with my life. </p>
+		<p>Outside of science, I love staying active. I enjoy almost every kind of physical activity, from recreational sports to CrossFit, yoga, running, tennis, hiking—you name it! When I’m not being active, I love to eat and especially enjoy trying cuisines from different parts of the world. I am a big traveler (when I have the time) and am slowly working on a <a href="https://maddiegrosklos.github.io/travelblog/">travel blog</a> in my free time. It was my first experience developing a website, so it’s not the smoothest interface.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Sports</h3>
+		<p>I am a huge sports fan in every way possible. I love to watch, love to play, and firmly believe that sports have shaped me into who I am today. I think youth sports programs are an invaluable part of communities, and a goal of mine is to give back in a way that supports youth sports in underserved areas. I am, unfortunately, a lifelong Cleveland fan and watch the Cavs, Guardians, and Browns often. Of course, I was raised a Buckeye fan as well, and eight years of student football tickets at OSU only made that fandom stronger. </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
