@@ -38,8 +38,10 @@ nav-menu: true
 		<p>I am a huge sports fan in every way possible. I love to watch, love to play, and firmly believe that sports have shaped me into who I am today. I think youth sports programs are an invaluable part of communities, and a goal of mine is to give back in a way that supports youth sports in underserved areas. I am, unfortunately, a lifelong Cleveland fan and watch the Cavs, Guardians, and Browns often. Of course, I was raised a Buckeye fan as well, and eight years of student football tickets at OSU only made that fandom stronger. </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Family</h3>
+		<p>My family has supported me unconditionally through my journey in academics and my career thus far. My mom is my rock and my role model, while my dad is my number one supporter and advocate. I have also been fortunate to have lived my life thus far with four grandparents, who constantly show their love and pride in my accomplishments. My younger sister and cousins have given me the best set of lifelong friends. 
+		<img src="assets/images/aboutme_family.jpg" alt="Description of the image">
+</p>
 	</div>
 </div>
 
