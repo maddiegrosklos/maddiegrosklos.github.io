@@ -28,9 +28,9 @@ nav-menu: true
 		<p>I was never stuck on one line of research or a specific research path. All I knew was that my goal was to dive into human performance and understand more about the human body as a machine (as I like to call it). The lab where I felt I had the best fit was at the Jameson Crane Sports Medicine Institute within the Ohio State Medical Center system. With this in mind, I knew it would work best for my team if my research had a primarily clinical focus, allowing me to integrate performance as I was able. After working closely with physical therapists during my PhD, I fell in love with the intersection of engineering and clinical medicine. I hope to collaborate with clinicians on questions of injury prevention, recovery, and performance in some capacity throughout the rest of my career.</p>
 	</div>
 	<!-- Break -->
+			<p>This 'About Me' section has been very work-relevant, but I honestly love the world of sports and performance biomechanics so much that it has become a part of my personality. I always say I hope to never need a 'work-life balance' because I will love my work so much that it integrates seamlessly with my life. </p>
 	<div class="4u 12u$(medium)">
 		<h3>Hobbies and Interests</h3>
-		<p>This 'About Me' section has been very work-relevant, but I honestly love the world of sports and performance biomechanics so much that it has become a part of my personality. I always say I hope to never need a 'work-life balance' because I will love my work so much that it integrates seamlessly with my life. </p>
 		<p>Outside of science, I love staying active. I enjoy almost every kind of physical activity, from recreational sports to CrossFit, yoga, running, tennis, hiking—you name it! When I’m not being active, I love to eat and especially enjoy trying cuisines from different parts of the world. I am a big traveler (when I have the time) and am slowly working on a <a href="https://maddiegrosklos.github.io/travelblog/">travel blog</a> in my free time. It was my first experience developing a website, so it’s not the smoothest interface.</p>
 	</div>
 	<div class="4u 12u$(medium)">
